@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="songs_array">
+        <item>Simple</item>
+        <item>Love Like Crazy</item>
+        <item>If You\'re Going Through Hell</item>
+        <item>All-American Girl</item>
+        <item>Everything\'s Gonna Be Alright</item>
+        <item>Up Down</item>
+        <item>There Goes My Life</item>
+    </string-array>
+    <integer-array name="images_array">
+        <item>@drawable/simple</item>
+        <item>@drawable/crazy</item>
+        <item>@drawable/hell</item>
+        <item>@drawable/girl</item>
+        <item>@drawable/alright</item>
+        <item>@drawable/up</item>
+        <item>@drawable/life</item>
+    </integer-array>
+</resources>
